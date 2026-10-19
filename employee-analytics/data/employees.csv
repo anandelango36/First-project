@@ -1,0 +1,29 @@
+employee_id,name,age,department,salary,experience,performance
+1,Arun Kumar,28,IT,55000,4,82
+2,Priya Sharma,32,HR,48000,7,76
+3,Rahul Verma,45,Finance,72000,18,88
+4,Sneha Iyer,26,IT,42000,2,69
+5,Karthik Raj,38,IT,85000,12,91
+6,Divya Nair,29,HR,39000,3,64
+7,Vikram Singh,50,Finance,95000,25,79
+8,Meena Pillai,34,Marketing,51000,8,83
+9,Suresh Babu,41,Finance,68000,15,72
+10,Anita Desai,27,Marketing,36000,2,58
+11,Rohit Menon,31,IT,62000,6,85
+12,Lakshmi Devi,36,HR,52000,10,81
+13,Manoj Kumar,24,IT,34000,1,60
+14,Pooja Reddy,30,Marketing,47000,5,77
+15,Naveen Chandra,43,Finance,88000,20,90
+15,Naveen Chandra,43,Finance,88000,20,90
+16,Deepa Krishnan,35,HR,45000,9,74
+17,Ajay Patel,39,IT,78000,14,87
+18,Shalini Rao,28,Marketing,41000,4,70
+19,,33,IT,50000,7,75
+20,Ramesh Gupta,-5,HR,40000,3,66
+21,Kavya Suresh,29,Finance,-45000,4,68
+22,Tarun Joshi,37,IT,66000,11,130
+23,Nisha Thomas,,HR,43000,5,71
+24,Bala Murugan,40,,59000,13,80
+25,Harini S,27,IT,abc,3,72
+26,Gopal Krishna,46,Finance,91000,22,93
+27,Swathi Mohan,32,Marketing,53000,8,84
